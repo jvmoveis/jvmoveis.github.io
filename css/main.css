@@ -34,7 +34,7 @@ body{
 
 
 a{
-	color:#DE5E60;
+	color:#f05a28;
 	text-decoration: none;
 	cursor: pointer;
 	
@@ -104,7 +104,7 @@ hr {
 }
 
 .color-text {
-    color: #DE5E60;
+    color: #f05a28;
 }
 
 .through{
@@ -302,8 +302,8 @@ h3.spec {
 	width: 100%;
 	height: 100%;
 	background: #26292E;
-	opacity: 0.7;
-	filter: alpha(opacity=70);
+	opacity: 0.5;
+	filter: alpha(opacity=20);
 	z-index: 0;
 }
 
@@ -373,7 +373,7 @@ h3.spec {
 
 #home-slider #nextslide:hover,
 #home-slider #prevslide:hover {
-	background-color:#DE5E60;
+	background-color:#f05a28;
 }
 
 #home-slider #nextslide i,
@@ -431,7 +431,7 @@ h3.spec {
 
 #home-slider ul#slide-list li.current-slide a,
 #home-slider ul#slide-list li.current-slide a:hover {
-	background-color:#DE5E60;
+	background-color:#f05a28;
 }
 
 #home-slider #nextsection {
@@ -449,7 +449,7 @@ h3.spec {
 }
 
 #home-slider #nextsection:hover {
-	background-color:#DE5E60;
+	background-color:#f05a28;
 }
 
 #home-slider #nextsection i {
@@ -498,14 +498,15 @@ header .sticky-nav.stuck {
 header #logo {
 	color: #FFFFFF;
 	float: left;
-	padding: 15px 0;
+	padding: 5px 0;
 	margin-left: 20px;
 }
 
 header #logo a {
-	background: url(../img/logo.png) no-repeat;
-	width: 96px;
-	height: 30px;
+	background: url(../img/jvmoveis-logo.png) no-repeat;
+	background-size: 200px 50px;
+	width: 200px;
+	height: 50px;
 	text-indent: -9999px;
 	display: block;
 	opacity: 1;
@@ -521,6 +522,18 @@ header #logo a:hover {
 	opacity: 0.65;
 	filter: alpha(opacity=65);	
 }
+@media screen and (min-width: 1024px){
+  .jvmoveislogo{
+	max-width: 500px;
+	}
+}
+/* #### Mobile Phones Portrait or Landscape #### */
+@media screen and (max-device-width: 640px){
+  .jvmoveislogo{
+	max-width: 300px;
+	}
+}
+
 
 nav#menu {
 	float: right;
@@ -553,7 +566,7 @@ nav#menu #menu-nav li a {
 
 nav#menu #menu-nav li.current a,
 nav#menu #menu-nav li a:hover {
-	color: #DE5E60;
+	color: #f05a28;
 }
 
 
@@ -692,7 +705,7 @@ nav#menu #menu-nav li a:hover {
 }
 
 .work-nav #filters li a.selected {
-	color: #DE5E60;
+	color: #f05a28;
 }
 
 #thumbs {
@@ -752,7 +765,7 @@ nav#menu #menu-nav li a:hover {
 	position: absolute;
 	width: 100%;
 	height: 100%;
-	background: #DE5E60;
+	background: #f05a28;
 	
 	opacity: 0.80;
 	filter: alpha(opacity=80);
@@ -832,7 +845,7 @@ nav#menu #menu-nav li a:hover {
 	position: absolute;
 	width: 100%;
 	height: 100%;
-	background: #DE5E60;
+	background: #f05a28;
 	
 	opacity: 0.80;
 	filter: alpha(opacity=80);
@@ -979,7 +992,7 @@ nav#menu #menu-nav li a:hover {
 }
 
 #contact-form .submit:hover {
-    background: #DE5E60;
+    background: #f05a28;
     color: #FFFFFF;
 }
 
@@ -1100,7 +1113,7 @@ nav#menu #menu-nav li a:hover {
 
 #social ul li:hover a,
 #social ul li.active a {
-	background-color: #DE5E60;	
+	background-color: #f05a28;	
 	
 	-webkit-transform: rotateY(0deg);
 	   -moz-transform: rotateY(0deg);
@@ -1165,7 +1178,7 @@ footer .credits {
 }
 
 #back-to-top:hover {
-	background-color:#DE5E60;
+	background-color:#f05a28;
 }
 
 #back-to-top i {
@@ -1241,7 +1254,7 @@ footer .credits {
 	margin: -50px 0 0 -50px;
 	width: 100px;
 	height: 100px;
-	background: #DE5E60;
+	background: #f05a28;
 	-webkit-border-radius: 999px;
 	-moz-border-radius: 999px;
 	border-radius: 999px;

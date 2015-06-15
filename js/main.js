@@ -77,10 +77,10 @@ BRUSHED.slider = function(){
 		thumb_links				:	0,			// Individual thumb links for each slide
 		thumbnail_navigation    :   0,			// Thumbnail navigation
 		slides 					:  	[			// Slideshow Images
-											{image : 'img/slider-images/image01.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
-											{image : 'img/slider-images/image02.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
-											{image : 'img/slider-images/image03.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''},
-											{image : 'img/slider-images/image04.jpg', title : '<div class="slide-content">Brushed</div>', thumb : '', url : ''}  
+											{image : 'img/work/jvmoveis/quarto01.jpg', title : '<div class="slide-content"><img class="jvmoveislogo" src="img/jvmoveis-logo.png" alt="" /></div>', thumb : '', url : ''},
+											{image : 'img/work/jvmoveis/cozinha03.jpg', title : '<div class="slide-content"><img class="jvmoveislogo" src="img/jvmoveis-logo.png" alt="" /></div>', thumb : '', url : ''},
+											{image : 'img/work/jvmoveis/quarto05.jpg', title : '<div class="slide-content"><img class="jvmoveislogo" src="img/jvmoveis-logo.png" alt="" /></div>', thumb : '', url : ''},
+											{image : 'img/work/jvmoveis/cozinha01.jpg', title : '<div class="slide-content"><img class="jvmoveislogo" src="img/jvmoveis-logo.png" alt="" /></div>', thumb : '', url : ''}  
 									],
 									
 		// Theme Options			   
