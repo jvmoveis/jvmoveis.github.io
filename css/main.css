@@ -503,7 +503,7 @@ header #logo {
 }
 
 header #logo a {
-	background: url(../img/jvmoveis-logo.png) no-repeat;
+	background: url(../images/jvmoveis-logo.png) no-repeat;
 	background-size: 200px 50px;
 	width: 200px;
 	height: 50px;
@@ -579,7 +579,7 @@ nav#menu #menu-nav li a:hover {
 }
 
 .menu-nav {
-	background:url(../img/menu-mobile.png) 0 0 no-repeat;
+	background:url(../images/menu-mobile.png) 0 0 no-repeat;
 	width: 16px;
 	height: 16px;
 	display: block;
