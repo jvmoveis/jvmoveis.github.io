@@ -77,10 +77,10 @@ BRUSHED.slider = function(){
 		thumb_links				:	0,			// Individual thumb links for each slide
 		thumbnail_navigation    :   0,			// Thumbnail navigation
 		slides 					:  	[			// Slideshow Images
-											{image : 'images/quarto01.jpg', title : '<div class="slide-content"><img class="jvmoveislogo" src="images/jvmoveis-logo.png" alt="" /></div>', thumb : '', url : ''},
-											{image : 'images/cozinha03.jpg', title : '<div class="slide-content"><img class="jvmoveislogo" src="images/jvmoveis-logo.png" alt="" /></div>', thumb : '', url : ''},
-											{image : 'images/quarto05.jpg', title : '<div class="slide-content"><img class="jvmoveislogo" src="images/jvmoveis-logo.png" alt="" /></div>', thumb : '', url : ''},
-											{image : 'images/cozinha01.jpg', title : '<div class="slide-content"><img class="jvmoveislogo" src="images/jvmoveis-logo.png" alt="" /></div>', thumb : '', url : ''}  
+											{image : 'images/quarto1.jpg', title : '<div class="slide-content"><img class="jvmoveislogo" src="images/jvmoveis-logo.png" alt="" /></div>', thumb : '', url : ''},
+											{image : 'images/cozinha3.jpg', title : '<div class="slide-content"><img class="jvmoveislogo" src="images/jvmoveis-logo.png" alt="" /></div>', thumb : '', url : ''},
+											{image : 'images/quarto5.jpg', title : '<div class="slide-content"><img class="jvmoveislogo" src="images/jvmoveis-logo.png" alt="" /></div>', thumb : '', url : ''},
+											{image : 'images/cozinha1.jpg', title : '<div class="slide-content"><img class="jvmoveislogo" src="images/jvmoveis-logo.png" alt="" /></div>', thumb : '', url : ''}  
 									],
 									
 		// Theme Options			   
