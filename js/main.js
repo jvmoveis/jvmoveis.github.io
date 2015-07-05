@@ -220,10 +220,10 @@ BRUSHED.contactForm = function(){
 BRUSHED.tweetFeed = function(){
 	
 	var valueTop = -64; // Margin Top Value
-	
+		
     $("#ticker").tweet({
           modpath: 'js/twitter/',
-          username: "Bluxart", // Change this with YOUR ID
+          username: "237501857", // Change this with YOUR ID
           page: 1,
           avatar_size: 0,
           count: 10,

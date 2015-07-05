@@ -953,6 +953,7 @@ nav#menu #menu-nav li a:hover {
     height: auto;
     padding: 15px;
 	margin: 0;
+	margin-bottom: 1px;	
 	
     resize: none;
 }
@@ -974,7 +975,7 @@ nav#menu #menu-nav li a:hover {
 
 #contact-form .submit {
     background: #3C3F45;
-    color: #23262C;
+    color: #7F8289;
     cursor: pointer;
     display: inline-block;
     font-size: 18px;
@@ -995,6 +996,7 @@ nav#menu #menu-nav li a:hover {
     background: #f05a28;
     color: #FFFFFF;
 }
+
 
 #response {
 	margin-top: 20px;
