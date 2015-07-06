@@ -788,6 +788,10 @@ nav#menu #menu-nav li a:hover {
 /* ==================================================
    About Section
 ================================================== */
+.span4.profile {
+	float:none;
+	margin:auto;
+}
 
 .profile-name {
 	margin-bottom: 15px;	
